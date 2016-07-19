@@ -1,0 +1,15 @@
+a.) Explain in your own words the term "single-threaded"
+    - "Single-threaded" is a single process of cammand.
+b.) In your own words, what is "event driven architecture"
+    - "Event driven architecture" is to make a certain project easier. 
+    It sends out information in a minimum time because of this designed model of -push.
+c.) What are the benefits of a javascript module
+    - Benefits of javascript module, it lessens the dependencies, it makes your work organize, 
+    wand we can edited changes without any hassle on other codes/file.
+d.) Give two implementations of javascript module
+    -
+    -
+e.) In you own words, what is a module bundler.
+    - Module bundler is 
+    
+   
